@@ -1,0 +1,12 @@
+<사용시 주의사항>
+
+1. web.xml 경로 세팅해야 함
+
+
+2. 이메일 관련
+
+\src\com\azu\action\member\SMTPAuthenticatior.java
+안에 실제 이메일 아이디와 비밀번호 입력해야함 (주석으로 표시해 놨습니다.)
+
+\src\com\azu\action\member\EmailProAction.java
+안에 실제 이메일 써줘야함 (주석으로 표시해 놨습니다.)

@@ -1,0 +1,15 @@
+@CHARSET "UTF-8";
+
+footer {
+	background-color: #555;
+	color: white;
+	padding: 30px;
+}
+
+.right {
+	text-align: right;
+}
+
+.center {
+	text-align: center;
+}

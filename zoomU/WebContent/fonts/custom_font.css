@@ -1,0 +1,47 @@
+@CHARSET "UTF-8";
+@import url(http://fonts.googleapis.com/earlyaccess/jejugothic.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumpenscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/hanna.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumbrushscript.css);
+@import url(http://fonts.googleapis.com/earlyaccess/nanumgothic.css);
+
+.font-gothic{
+	font-family: 'Nanum Gothic', serif;
+	font-style: bold;
+}
+
+.font-brush{
+	font-family: 'Nanum Brush Script', serif;
+	font-style: bold;
+}
+
+.font-hanna{
+	font-family: 'Hanna', serif;
+	font-style: bold;
+}
+
+.font-jeju{
+	font-family: 'Jeju Gothic', serif;
+	font-style: bold;
+}
+
+.font-nanum{
+	font-family: 'Nanum Pen Script', serif;
+	font-style: bold;
+}
+
+.font-size-lg{
+	font-size: 50px;
+}
+
+.font-size-md{
+	font-size: 30px;
+}
+
+.font-size-sm{
+	font-size: 18px;
+}
+
+.font-size-menu{
+	font-size: 23px;
+}

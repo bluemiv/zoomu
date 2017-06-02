@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context reloadable = "true">
+	<WatchedResource>WEB-INF/web.xml</WatchedResource>
+	<Resource  name = "jdbc:DogDB"
+				auth = "Container"
+				type = "javax.sql.DataSource"
+				username = "dog"
+				password = "oracle"
+				driverClassName = "oracle.jdbc.driver.OracleDriver"
+				url = "jdbc:oracle:thin:@localhost:1521:XE"
+				
+				maxActive = "50"
+				maxIdle = "50"
+				maxWait = "-1"
+	/>
+</Context>
